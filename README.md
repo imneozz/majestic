@@ -1,7 +1,5 @@
 # [📈 Live Status](https://imneozz.github.io/majestic): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [imneozz](https://imneozz.github.io/majestic), powered by [Upptime](https://github.com/upptime/upptime).
-
 [![Uptime CI](https://github.com/imneozz/majestic/workflows/Uptime%20CI/badge.svg)](https://github.com/imneozz/majestic/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/imneozz/majestic/workflows/Response%20Time%20CI/badge.svg)](https://github.com/imneozz/majestic/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/imneozz/majestic/workflows/Graphs%20CI/badge.svg)](https://github.com/imneozz/majestic/actions?query=workflow%3A%22Graphs+CI%22)
