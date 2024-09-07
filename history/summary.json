@@ -1,22 +1,22 @@
 [
   {
     "name": "API",
-    "url": "https://majestic.discloud.app",
+    "url": "https://majestic.discloud.app/shop",
     "icon": "https://icons.duckduckgo.com/ip3/majestic.discloud.app.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "4.69%",
-    "uptimeDay": "4.69%",
-    "uptimeWeek": "4.69%",
-    "uptimeMonth": "4.69%",
-    "uptimeYear": "4.69%",
-    "time": 113,
-    "timeDay": 113,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "status": "up",
+    "uptime": "1.98%",
+    "uptimeDay": "1.98%",
+    "uptimeWeek": "1.98%",
+    "uptimeMonth": "1.98%",
+    "uptimeYear": "1.98%",
+    "time": 744,
+    "timeDay": 744,
+    "timeWeek": 744,
+    "timeMonth": 744,
+    "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-09-07": 0
+      "2024-09-07": 3
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/167.235.155.125.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 0
+      "2024-09-07": 4
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/167.235.155.125.ico",
     "slug": "discord-bot",
     "status": "down",
-    "uptime": "3.58%",
-    "uptimeDay": "3.58%",
-    "uptimeWeek": "3.58%",
-    "uptimeMonth": "3.58%",
-    "uptimeYear": "3.58%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 0
+      "2024-09-07": 3
     }
   }
 ]
