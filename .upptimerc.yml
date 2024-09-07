@@ -4,7 +4,7 @@ repo: majestic # The name of this repository
 
 sites:
   - name: API
-    url: https://majestic.discloud.app
+    url: https://majestic.discloud.app/shop
   - name: BACKEND
     url: http://167.235.155.125
   - name: DISCORD BOT
