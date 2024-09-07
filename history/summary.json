@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/majestic.discloud.app.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "1.98%",
-    "uptimeDay": "1.98%",
-    "uptimeWeek": "1.98%",
-    "uptimeMonth": "1.98%",
-    "uptimeYear": "1.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 744,
     "timeDay": 744,
     "timeWeek": 744,
     "timeMonth": 744,
     "timeYear": 744,
-    "dailyMinutesDown": {
-      "2024-09-07": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BACKEND",
@@ -25,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/167.235.155.125.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "0.35%",
-    "uptimeDay": "0.35%",
-    "uptimeWeek": "0.35%",
-    "uptimeMonth": "0.35%",
-    "uptimeYear": "0.35%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -45,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/167.235.155.125.ico",
     "slug": "discord-bot",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 3
+      "2024-09-07": 4
     }
   }
 ]
